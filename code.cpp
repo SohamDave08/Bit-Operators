@@ -7,7 +7,7 @@ int main()
     //? Left shift operation
     int i = 7;
     int x = i<<5;
-    cout<<"Left shift 7 by 2^5 : "<<x<<endl;
+    cout<<endl<<"Left shift 7 by 2^5 : "<<x<<endl;
 
 
     //? Right shift operation
